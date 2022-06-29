@@ -3,6 +3,7 @@ Username: Administrator
 Password: Q5j5ytPB)?PmU=Baon(@tbi96i4Y.qT(
 
 Account sql server
+13.232.213.53,1433
 sa
 Loyalty@Program
 
